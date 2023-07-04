@@ -1,7 +1,7 @@
-div {
+h2 {
     float: left;
     /* formatting */
-    width: 200px;
+    width: 500px;
     height: 100px;
     margin: 1em;
     border: 2px solid green;
